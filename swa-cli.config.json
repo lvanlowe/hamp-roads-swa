@@ -5,7 +5,7 @@
       "context": "http://localhost:4200",
       "run": "npm start",
       "apiLocation": "",
-      "outputLocation": "dist/basic-sample",
+      "outputLocation": "dist/hamp-roads-swa",
       "devserverTimeout": 10000,
       "open": "true"
     }
